@@ -1,0 +1,23 @@
+{
+  "acs_state": {
+    "mcs_connect": 0,
+    "mcs_state": 1,
+    "ucs_connect": 2,
+    "ucs_state": 3,
+    "control_state": 4,
+    "TSCState": 5,
+    "standby_mode": 6,
+    "fire_on_bay_group": 7
+  },
+  "vehicle_core": {
+    "vhl_idx": 0,
+    "dt_receive": 1,
+    "vhl_id": 2,
+    "socket_state": 3,
+    "CommState": 4,
+    "comm_acs_hw": 5,
+    "mode": 6,
+    "X": 14,
+    "Y": 15
+  }
+}
